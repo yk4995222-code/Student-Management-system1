@@ -1,0 +1,36 @@
+Student Management System
+
+A beginner-friendly Python project for managing student records using a simple command-line interface.
+
+Features
+
+- Add student records
+- View all students
+- Search students by ID
+- Update student details and marks
+- Delete student records
+- Store records in a JSON file
+- Validate student IDs and marks
+
+Technologies
+
+- Python
+- JSON
+- Python standard library
+
+How to Run
+
+1. Install Python 3.
+2. Download or clone this repository.
+3. Open a terminal in the project folder.
+4. Run:
+
+"python main.py"
+
+Learning Goals
+
+This project demonstrates functions, loops, conditional statements, lists, dictionaries, file handling, JSON, and input validation.
+
+Status
+
+Beginner project. Test all features before relying on it for real student records.
